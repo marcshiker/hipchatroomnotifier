@@ -1,9 +1,9 @@
 HipChat Room Notifier
 ===================
 
-A simple C# library for sending HipChat room notifications. It's simple in the fact that you can do much more with HipChat's API, I just chose to focus on a common taks, sending room notifications.
+A simple C# library for sending [HipChat](https://www.hipchat.com) room notifications. It's simple in that [HipChat's API](https://www.hipchat.com/docs/apiv2) is much more broad than just sending room notifications--I just chose to focus on this common need.
 
-This repo also includes a Windows Console application for sending notifications using its command line.
+This repo also includes a Windows Console application for sending notifications through its command line.
 
 
 HipChat Room Notifier
