@@ -14,14 +14,14 @@ HipChat Room Notifier
 HipChat Room Notifier Console App
 -----------------------------------
 
-All command line parameters are required in this order:
+All command line parameters are required in the following order:
 
-1 AuthToken
-2 RoomName
-3 Color
-4 Format
-5 Notify
-6 Message
+* AuthToken
+* RoomName
+* Color
+* Format
+* Notify
+* Message
 
 For example:
 
