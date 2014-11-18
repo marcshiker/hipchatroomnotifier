@@ -16,12 +16,12 @@ HipChat Room Notifier Console App
 
 All command line parameters are required in the following order:
 
-* AuthToken
-* RoomName
-* Color
-* Format
-* Notify
-* Message
+* **AuthToken** (get your token [here](https://www.hipchat.com/docs/apiv2/auth))
+* **RoomName** (either the room name or id)
+* **Color** (either 'yellow', 'green', 'red', 'purple', 'gray', or 'random')
+* **Format** (either 'html' or 'text')
+* **Notify** (either true or false)
+* **Message**
 
 For example:
 
